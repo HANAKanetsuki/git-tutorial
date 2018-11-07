@@ -1,4 +1,6 @@
 
 Git tutorial
+<<<<<<< HEAD
 It's Git tutorial
-test!
+test(ufeature-A) 
+test(fix-B)
